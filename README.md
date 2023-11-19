@@ -7,7 +7,7 @@ Here are some ideas to get you about me:
 <!-- - 🤔 I’m looking for help with ... -->
 - 🌱 I’m currently learning everything i need 
 - 💬 Ask me about anything if you want
-- 📫 How to reach me: <strong>gmail: nihadrusanov420@gmail.com  Instagram: <a href='https://www.instagram.com/nihatrusnanov/' >Instagram</a> </strong>
+- 📫 How to reach me: <strong>gmail: nihadrusanov420@gmail.com  
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
@@ -30,8 +30,9 @@ Here are some ideas to get you about me:
 </p>
 
 
-## Follow me 
+## Follow me 👇 
 <a href='https://www.instagram.com/nihatrusnanov/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45"/></a>
+
 
 
 
