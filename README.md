@@ -1,7 +1,11 @@
-# Hi there 👋
+# <div id='header' align='center'>Hi there 👋</div>
 
-Here are some ideas to get you about me:
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+
+## About me
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -13,7 +17,7 @@ Here are some ideas to get you about me:
 <!-- - ⚡ Fun fact: ... -->
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## 🚀 Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="python" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="45" height="45" />
@@ -30,8 +34,10 @@ Here are some ideas to get you about me:
 </p>
 
 
-<!-- ## Follow me 👇 
-<a href='https://www.instagram.com/nihatrusnanov/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45"/></a> -->
+## Follow me 👇 
+<a href='https://m.facebook.com/p/Nihat-Ru%C5%9Fanov-61552607323869/?mibextid=ZbWKwL&wtsid=rdr_0bL1h9dOVzkmojC9P&_rdr'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45"/></a>
+<a href='https://www.instagram.com/nihatrusnanov'><img src="https://media.giphy.com/media/Q8Eg9UzVfSkJxeoWEc/giphy.gif"  alt="vscode" width="45" height="45"></a>
+
 
 
 
