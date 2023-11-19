@@ -30,8 +30,8 @@ Here are some ideas to get you about me:
 </p>
 
 
-## Follow me 👇 
-<a href='https://www.instagram.com/nihatrusnanov/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45"/></a>
+<!-- ## Follow me 👇 
+<a href='https://www.instagram.com/nihatrusnanov/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45"/></a> -->
 
 
 
