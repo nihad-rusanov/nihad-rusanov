@@ -34,9 +34,7 @@
 </p>
 
 
-## Follow me 👇 
-<a href='https://m.facebook.com/p/Nihat-Ru%C5%9Fanov-61552607323869/?mibextid=ZbWKwL&wtsid=rdr_0bL1h9dOVzkmojC9P&_rdr'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45"/></a>
-<a href='https://www.instagram.com/nihatrusnanov'><img src="https://media.giphy.com/media/Q8Eg9UzVfSkJxeoWEc/giphy.gif"  alt="vscode" width="45" height="45"></a>
+
 
 
 
