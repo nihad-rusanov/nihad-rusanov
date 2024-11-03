@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Nihat_.png)
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Nihat_.png)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Nihad_.png)
 
 
 ---
