@@ -69,7 +69,7 @@ Here are some of my favorite projects that I’m proud to share:
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/nihad-rusanov-33802b279)
+- [LinkedIn](https://www.linkedin.com/in/nihad-rusanov-33802b279)
 <!-- [Twitter](https://twitter.com/YourUsername)
 - [Portfolio](https://yourwebsite.com) -->
 
