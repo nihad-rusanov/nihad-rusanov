@@ -60,10 +60,10 @@ Here are some of my favorite projects that I’m proud to share:
 ### [Project 1: Fraud Detection](https://github.com/nihad-rusanov/fraud-detection)
 **Description**: this project, "Credit Card Fraud Detection Using Logistic Regression with SMOTE," focuses on identifying fraudulent credit card transactions. It uses logistic regression to classify transactions, addressing data imbalance through SMOTE (Synthetic Minority Over-sampling Technique) to enhance model accuracy on the minority class (fraud). Key stages include data preprocessing, exploratory analysis, SMOTE-based resampling, model training, and performance evaluation using metrics like ROC-AUC score and confusion matrix. The project requires libraries such as pandas, scikit-learn, and imbalanced-learn and employs Kaggle’s Credit Card Fraud Detection dataset.
 
-### [Project 2: Project Name](https://github.com/nihad-rusanov/DjBlog)
-**Description**: Brief description of what this project is about.
+### [Project 2: Blog Webiste]ebsite](https://github.com/nihad-rusanov/DjBlog)
+**Description**: The DjBlog project is a blog platform built using Django, a popular Python web framework. DjBlog serves as a foundational setup for a personal or multi-author blog website, providing essential features such as post creation, categorization, user authentication, and commenting. The project is structured to be easily customizable and extendable, making it suitable for both beginners looking to learn Django and developers who need a quick starting point for a blogging site. Key components include a clean, organized interface and adherence to Django's best practices for web development.
 
-### [Project 3: Project Name](https://github.com/YourUsername/ProjectName)
+<!--### [Project 3: Project Name](https://github.com/YourUsername/ProjectName)
 **Description**: Brief description of what this project is about. -->
 
 ---
