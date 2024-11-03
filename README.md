@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihad-rusanov&layout=compact&theme=radical)
 
 ## 📊 LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nihat_?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Nihat_?theme=wtf)
 
 
 ---
