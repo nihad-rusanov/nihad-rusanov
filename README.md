@@ -1,37 +1,63 @@
-# <div id='header' align='center'>Hi there 👋</div>
+# Hello! 👋 I'm [Your Name]
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+Welcome to my GitHub profile! I'm passionate about [describe your primary interests, e.g., software development, data science, open-source projects, etc.]. Here, you'll find a collection of projects and work that showcase my skills and what I'm currently exploring. Let's connect and build something amazing together!
 
+---
 
-## About me
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 🌱 I’m currently learning everything i need 
-- 💬 Ask me about anything if you want
-- 📫 How to reach me: <strong>gmail: nihadrusanov420@gmail.com  
+## 🔥 About Me
+- 💼 **Role**: [Your Current Role, e.g., Software Engineer, Data Scientist]
+- 🏢 **Current Organization**: [Company/Organization Name or Independent]
+- 🎓 **Education**: [Your Degree, Major, University, Graduation Year]
+- 🌎 **Location**: [City, Country]
 
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+### 🌱 Currently Learning
+- [Skill/Language/Framework] (e.g., Python, Kubernetes, Cloud Computing)
 
+### 💡 Interests
+- [Interest 1] (e.g., Artificial Intelligence, DevOps, Front-End Development)
+- [Interest 2]
+- [Interest 3]
 
-## 🚀 Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="python" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongo" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-</p>
+### 💼 Skills
+- **Languages**: [Programming Languages, e.g., Python, JavaScript, etc.]
+- **Frameworks & Libraries**: [e.g., React, Node.js, etc.]
+- **Tools**: [e.g., Git, Docker, etc.]
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+## 📂 Featured Projects
+Here are some of my favorite projects that I’m proud to share:
+
+### [Project 1: Project Name](https://github.com/YourUsername/ProjectName)
+**Description**: Brief description of what this project is about.
+
+### [Project 2: Project Name](https://github.com/YourUsername/ProjectName)
+**Description**: Brief description of what this project is about.
+
+### [Project 3: Project Name](https://github.com/YourUsername/ProjectName)
+**Description**: Brief description of what this project is about.
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/YourProfile)
+- [Twitter](https://twitter.com/YourUsername)
+- [Portfolio](https://yourwebsite.com)
+
+---
+
+## 🎉 Fun Facts
+- 🐶 [Any fun fact about you, e.g., Pet lover, Gamer]
+- 🌄 [Any hobbies, e.g., Hiking, Photography]
+- 🌐 [Languages you speak]
+
+Thanks for visiting! 😊
 
 
 
