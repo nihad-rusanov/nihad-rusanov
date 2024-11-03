@@ -52,6 +52,9 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihad-rusanov&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihad-rusanov&layout=compact&theme=radical)
 
+## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Nihat_.png)
+
 ---
 
 ## 📂 Featured Projects
